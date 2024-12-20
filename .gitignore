@@ -1,0 +1,5 @@
+# Ignore processed data files
+data/processed/
+
+# Ignore processed data files
+data/raw/
